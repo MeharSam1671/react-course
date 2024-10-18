@@ -1,0 +1,11 @@
+.Container{
+    background-color: brown;
+    width: 80vw;
+    padding: 10vw 10vw 10vw 10vw ;
+    margin-left: 10%;
+    height: 80vw;
+    text-align: center;
+    color: white;
+    display: flexbox;
+  justify-content: center;
+}
